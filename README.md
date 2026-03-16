@@ -135,3 +135,35 @@ This simulates **data governance pipelines used in healthcare analytics platform
 
 Clone the repository:
 git clone https://github.com/DivyaBharti2578/AI-Healthcare-Data-Platform
+
+
+---
+
+# 🔎 API Endpoints
+
+| Endpoint | Method | Description |
+|--------|--------|--------|
+| `/health` | GET | Health check |
+| `/query` | POST | Execute natural language healthcare queries |
+
+---
+
+# 📌 Future Improvements
+
+• Integrate vector database for semantic healthcare search  
+• Add healthcare analytics dashboards (Streamlit / React)  
+• Implement role-based access control  
+• Deploy on cloud infrastructure (AWS / GCP)
+
+---
+
+# 👩‍💻 Author
+
+**Divya Bharti**
+
+GitHub  
+https://github.com/DivyaBharti2578
+
+---
+
+⭐ If you found this project useful, feel free to star the repository!
