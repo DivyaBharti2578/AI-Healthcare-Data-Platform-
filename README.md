@@ -1,4 +1,7 @@
 # 🏥 AI-Powered Healthcare Data Platform
+## 🚀 Live Demo
+
+[![Live API](https://img.shields.io/badge/Live-Demo-green)](https://ai-healthcare-data-platform.onrender.com/docs)
 
 A **production-style healthcare analytics backend** that converts **natural language queries into validated SQL** executed on a structured healthcare data warehouse.
 
@@ -165,5 +168,16 @@ GitHub
 https://github.com/DivyaBharti2578
 
 ---
+
+## ☁ Deployment
+
+This application is deployed on **Render Cloud Platform**.
+
+Live API  
+https://ai-healthcare-data-platform.onrender.com
+
+API Documentation  
+https://ai-healthcare-data-platform.onrender.com/docs
+
 
 ⭐ If you found this project useful, feel free to star the repository!
