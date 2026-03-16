@@ -4,6 +4,13 @@ from sql_agent import generate_sql, validate_sql, execute_sql
 import time
 
 app = FastAPI()
+@app.get("/")
+def home():
+    return {
+        "message": "AI Healthcare Data Platform API",
+        "documentation": "/docs",
+        "health_check": "/health"
+    }
 
 class QueryRequest(BaseModel):
     question: str
